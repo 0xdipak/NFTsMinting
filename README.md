@@ -39,4 +39,4 @@ To run the NFTsMinting Project, follow these instructions:
 - IPFS
 - Solidity
 
-  Live Project : https://nftsminting.vercel.app/
+##Live Project : https://nftsminting.vercel.app/
