@@ -1,32 +1,42 @@
+# NFTsMinting Project
 
-# Hardhat-Tailwind-React Ethers Starter Kit
-Speedily develope your decentralized application with this starter kit for free!
+## Overview
 
-Follow the steps below to download, install, and run this project.
-
-## Dependencies
-Install these prerequisites to follow along with the tutorial. See free video tutorial or a full explanation of each prerequisite.
-- NPM: https://nodejs.org
-- Hardhat: https://hardhat.org/
-- EthersJs: https://ethers.org/
-- Tailwind CSS: https://tailwindcss.com/
+BERN Project is a decentralized application (dApp) that utilizes the Ethereum blockchain for transparency and security. It provides a user-friendly interface built with React.js for interacting with the blockchain, while the server side is powered by Node.js and Express.
 
 
-## Step 1. Clone the project
-`git clone https://github.com/Daltonic/tailwind_ethers_starter_kit <PROJECT NAME>`
 
-## Step 2. Install dependencies
-```sh
-$ cd <PROJECT NAME>
-$ yarn install # or npm install
-```
-## Step 3. Start Hardhat Node
-Open the terminal and run the command below.
-```sh
-$ yarn hardhat node
-```
+## Table of Contents
 
-## Step 4. Run the Front End Application
-`$ yarn start`
-Visit this URL in your browser: http://localhost:3000
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
 
+## Introduction
+
+Welcome to the NFTsMinting Project repository! This project aims to showcase the potential of decentralized applications by combining the power of Ethereum, React.js, and IPFS. The application allows users to mint, their own NFTs.
+
+## Installation
+
+Follow the steps below to set up the BERN Project on your local machine:
+
+1. Clone the repository: `git clone https://github.com/0xdipak/NFTsMinting.git`
+2. Navigate to the project folder: `cd NFTsMinting`
+3. Install client dependencies: `yarn install`
+
+## Usage
+
+To run the NFTsMinting Project, follow these instructions:
+
+1. Start the project: `yarn start`
+2. The project will run on http://localhost:3000 
+
+## Technologies Used
+
+- Ethereum
+- React.js
+- IPFS
+- Solidity
+
+  Live Project : https://nftsminting.vercel.app/
